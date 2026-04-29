@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: The Zero Slice of Quaternionic Real Bordism
+message: >-
+  Code accompanying the paper 'The Zero Slice of
+  Quaternionic Real Bordism'
+type: software
+authors:
+  - given-names: David
+    family-names: Mehrle
+    email: davidm@uky.edu
+    affiliation: University of Kentucky
+  - given-names: Jesse
+    family-names: Keyes
+    email: jdke228@uky.edu
+    affiliation: University of Kentucky
+  - given-names: Bertrand
+    family-names: Guillou
+    email: bertguillou@uky.edu
+    affiliation: University of Kentucky
