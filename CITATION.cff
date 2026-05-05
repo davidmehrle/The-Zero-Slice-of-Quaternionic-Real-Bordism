@@ -20,3 +20,7 @@ authors:
     family-names: Guillou
     email: bertguillou@uky.edu
     affiliation: University of Kentucky
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2605.01174'
+    description: arXiv
